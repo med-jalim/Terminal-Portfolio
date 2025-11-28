@@ -27,19 +27,10 @@ And don’t forget to ⭐ the project if you find it helpful!
 
 ---
 
-## License
-
-![CC BY-SA 4.0](https://user-images.githubusercontent.com/65147258/209966249-88275ba5-75a3-4a4e-af1c-7d861c5cf838.png)
-
-**Terminal Portfolio** by **Prithvi Yewale** is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).  
-Based on [this GitHub repository](https://github.com/cosmicwanderer7/portfolio).
-
----
 
 ## Contact
 
-- 📧 Email: [yewaleprithvi2003@gmail.com](mailto:yewaleprithvi2003@gmail.com)  
-- 🐦 Twitter: [@PrithviYewale](https://twitter.com/PrithviYewale)  
-- 📸 Instagram: [@prithvi_yewale](https://www.instagram.com/prithvi_yewale)
+- 📧 Email: [mohamadjalim05@gmail.com](mailto:mohamadjalim05@gmail.com)  
+- 📸 Instagram: [@prithvi_yewale](https://www.instagram.com/maroc_code)
 
 <p align="right">(<a href="#about-the-project">back to top</a>)</p>
