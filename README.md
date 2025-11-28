@@ -3,7 +3,7 @@
 ## About The Project
 A terminal-style developer portfolio built to showcase skills and projects through a fun, interactive command-line interface.
 
-🌐 **Live Demo:** [www.webprithviyewale.tech](https://med-jalim.github.io/Terminal-Portfolio/)
+🌐 **Live Demo:** [click here](https://med-jalim.github.io/Terminal-Portfolio/)
 
 ![Terminal Portfolio Screenshot](https://med-jalim.github.io/Terminal-Portfolio/assets/screenShote.png)
 
@@ -31,6 +31,6 @@ And don’t forget to ⭐ the project if you find it helpful!
 ## Contact
 
 - 📧 Email: [mohamadjalim05@gmail.com](mailto:mohamadjalim05@gmail.com)  
-- 📸 Instagram: [@prithvi_yewale](https://www.instagram.com/maroc_code)
+- 📸 Instagram: [@maroc_code](https://www.instagram.com/maroc_code)
 
 <p align="right">(<a href="#about-the-project">back to top</a>)</p>
