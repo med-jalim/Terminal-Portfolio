@@ -94,32 +94,5 @@ Built With:
 - Tailwind CSS
 - Yarn
 </pre>`,
-
-  `<a href="https://github.com/cosmicwanderer7/github-script" target="_blank"><span class='underline'>GitHub Init Script</span></a>`,
-  `<pre class="indent-8 whitespace-pre-wrap break-words overflow-x-auto">
-Bash script that automates GitHub repo creation and initial commit setup.
-Built With:
-- Bash
-- GitHub API
-</pre>`,
-
-  `<a href="https://github.com/cosmicwanderer7/guacamole-deploy" target="_blank"><span class='underline'>Apache Guacamole on OCI</span></a>`,
-  `<pre class="indent-8 whitespace-pre-wrap break-words overflow-x-auto">
-Remote desktop gateway deployment for secure access on Oracle Cloud.
-Built With:
-- Apache Guacamole
-- Oracle Cloud
-- Linux
-</pre>`,
-
-  `<a href="https://github.com/cosmicwanderer7/mumble-deploy" target="_blank"><span class='underline'>Mumble Server on OCI</span></a>`,
-  `<pre class="indent-8 whitespace-pre-wrap break-words overflow-x-auto">
-Voice chat server deployed on cloud for low-latency communication.
-Built With:
-- Mumble
-- Oracle Cloud
-- Linux
-</pre>`,
-  "</div>",
   "<br>",
 ];
