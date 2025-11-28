@@ -14,7 +14,6 @@ let awaitingConfirmation = false;
 function scrollToBottom() {
   if (contentscroll) {
     contentscroll.scrollTop = contentscroll.scrollHeight;
-    console.log(contentscroll.scrollHeight)
   }
 }
 
@@ -22,6 +21,7 @@ const commandMap = {
   help: "help",
   aboutme: "aboutme",
   projects: "projects",
+  skills: "skills",
   social: "social",
   email: "email",
   history: "history",
@@ -153,6 +153,9 @@ function commander(cmd) {
       break;
     case "projects":
       loopLines(projects, "color2 margin", 80);
+      break;
+    case "skills":
+      loopLines(skills, "color2 margin", 80);
       break;
     case "social":
       loopLines(social, "color2 margin", 80);

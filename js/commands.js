@@ -48,6 +48,8 @@ let help = [
 ↳ Lists social networks.
 <span class="command">projects</span>
 ↳ View coding projects.
+<span class="command">skills</span>
+↳ View my technical skills.
 <span class="command">email</span>
 ↳ To send me an email.
 <span class="command">history</span>
@@ -94,5 +96,20 @@ Built With:
 - Tailwind CSS
 - Yarn
 </pre>`,
+  "<br>",
+];
+
+
+let skills = [
+  "<br>",
+  `<div id="skills-section">`,
+  `<span class='underline'>Technical Skills</span>`,
+  "<br>",
+  `<li>Frontend: React.js,React Native, JavaScript, HTML, CSS, Tailwind CSS</li>`,
+  `<li>Backend: PHP, Node.js, Python, Laravel, Flask</li>`,
+  `<li>Databases: MySQL, MongoDB</li>`,
+  `<li>Tools: Git, Yarn, VS Code, Figma</li>`,
+  `<li>UI/UX: Responsive Design, Web Design</li>`,
+  "</div>",
   "<br>",
 ];
