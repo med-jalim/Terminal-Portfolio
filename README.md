@@ -3,9 +3,9 @@
 ## About The Project
 A terminal-style developer portfolio built to showcase skills and projects through a fun, interactive command-line interface.
 
-🌐 **Live Demo:** [www.webprithviyewale.tech](https://cosmicwanderer7.github.io/Terminal-Portfolio/)
+🌐 **Live Demo:** [www.webprithviyewale.tech](https://med-jalim.github.io/Terminal-Portfolio/)
 
-![Terminal Portfolio Screenshot](https://github.com/user-attachments/assets/2934484b-76cb-4e54-97e7-50bf7edc07de)
+![Terminal Portfolio Screenshot](https://med-jalim.github.io/Terminal-Portfolio/assets/screenShote.png)
 
 ### Built With
 - [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML)
